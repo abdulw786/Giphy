@@ -18,3 +18,9 @@ body {
 	opacity: 0.8;
 	padding: 20px;
 }
+#input-card{
+    background: gray;
+    border: 2px solid black;
+    border-radius: 0 25px;
+    opacity: 0.8;
+}
